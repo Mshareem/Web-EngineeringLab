@@ -1,0 +1,21 @@
+div{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+#titlename{
+    font-size: 20px;
+    font-style: normal;
+}
+
+#price{
+    color: orangered;
+    margin-left: 50px;
+}
