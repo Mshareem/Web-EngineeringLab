@@ -1,0 +1,28 @@
+
+
+img{
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+
+
+}
+
+.navbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    object-fit: contain;
+    margin: auto;
+    
+}
+
+
+img:first-child{
+
+    border: 2px solid black;
+   
+    width: 200px;
+    height: 200px;
+
+}
